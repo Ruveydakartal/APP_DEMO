@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 95%;
+    margin: 0 auto;
+    text-decoration: none;
+    margin-bottom: 2rem;
+  }
+
+  .link{
+    text-decoration: none;
+  }

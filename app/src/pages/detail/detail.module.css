@@ -1,0 +1,55 @@
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+.textarea{
+    align-items: center;
+    height: 6rem;
+    width: 30rem;
+    border-radius: 10px;
+    border: 1px solid #022A98;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #022A98;
+}
+
+.p {
+    font-size: 1.7rem;
+    color: black;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 4rem;
+}
+
+.cover_img{
+    width:50%;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+
+.img{
+    width: 20rem;
+    height: 20rem;
+    border-radius: 10px;
+    object-fit: cover;
+    margin: 1rem;
+}
+
+.little_img{
+    display: flex;
+    flex-direction: column;
+}
+
+.block{
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}

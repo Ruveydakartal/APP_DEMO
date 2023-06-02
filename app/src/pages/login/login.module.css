@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.formInputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    height: 50%;
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid #022A98;
+    padding: 1rem;
+}
+
+.formLabel{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.formInput{
+    width: 200vw;
+}

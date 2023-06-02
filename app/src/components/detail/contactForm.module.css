@@ -1,0 +1,21 @@
+.textarea{
+    align-items: center;
+    height: 6rem;
+    width: 30rem;
+    border-radius: 10px;
+    border: 1px solid #022A98;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+
+.block{
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #022A98;
+}

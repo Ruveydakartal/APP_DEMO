@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    text-decoration: none;
+    width: 90%;
+    padding: 0 7rem;
+}
+
+.select{
+    align-items: center;
+    height: 4rem;
+    width: 20rem;
+    border-radius: 10px;
+    border: 1px solid #022A98;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+}

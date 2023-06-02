@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    font-size: large;
+}
